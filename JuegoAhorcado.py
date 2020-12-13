@@ -41,7 +41,7 @@ class archivoPalabras:
                         self.palabraM.append("_ ")
                         print(self.palabraM)
                         Archivo.close()
-                        
+class palabras
 a=Archivo()
 j=JuegoAhorcado()
 print(JuegoAhorcado.elegirPalabra(a.cargar_archivo()))
