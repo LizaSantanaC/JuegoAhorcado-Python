@@ -38,3 +38,4 @@ class Archivo:
         f.writelines("")
         f.close()
         print("Archivo borrado con exito")
+        
