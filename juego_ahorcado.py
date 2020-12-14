@@ -83,4 +83,3 @@ class JuegoAhoracado:
             else:
                 return letra
 
-            
