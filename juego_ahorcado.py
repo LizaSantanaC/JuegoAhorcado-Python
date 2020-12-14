@@ -82,4 +82,3 @@ class JuegoAhoracado:
                 print('Elije una letra.')
             else:
                 return letra
-
