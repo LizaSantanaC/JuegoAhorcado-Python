@@ -11,4 +11,3 @@ class Oportunidades:
 
     def reiniciar(self):
         self.oportunidades = 10
-        
