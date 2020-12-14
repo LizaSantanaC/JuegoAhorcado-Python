@@ -1,12 +1,14 @@
 class Oportunidades:
-    _oṕortunidades = 10
+    oportunidades = 10
 
-    def disminuir_oportunidad(self):
-        self._oṕortunidades = self._oṕortunidades - 1
-        return self._oṕortunidades
+    def reducir_oportunidades(self):
+        self.oportunidades = self.oportunidades - 1
+        return self.oportunidades
 
-    def reiniciar_oportunidades(self):
-        self._oṕortunidades= 10
+    def aumentar_oportunidades(self):
+        self.oportunidades = self.oportunidades + 1
+        return self.oportunidades
 
-    def obtener_oportunidade(self):
-        return self._oṕortunidades
+    def reiniciar(self):
+        self.oportunidades = 10
+        
