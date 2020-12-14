@@ -1,5 +1,5 @@
 import random
-from Archivo import Archivo
+from archivo import Archivo
 
 class JuegoAhorcado:
     # Variables
