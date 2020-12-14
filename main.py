@@ -5,6 +5,7 @@ archivo = Archivo()
 juego = JuegoAhoracado()
 opcion = -1
 
+print("==========JUEGO AHORCADO==========")
 print("==========BIENBENIDO==========")
 while opcion != 0:
     print("\n")
